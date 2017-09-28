@@ -1,0 +1,28 @@
+Package: helloworld
+Version: 1.1-SNAPSHOT
+Architecture: all
+Maintainer: charan
+Depends: tomcat7
+Priority: 500
+Section: utils
+Filename: pool/main/h/helloworld/helloworld_1.1-SNAPSHOT_all.deb
+Size: 1902
+SHA256: df5e163a57901c57a544adcdc5068b22046048c4409d57317dbf3fd703a5bd41
+SHA1: 764197acafa3631d08c21f6128787c97dbf3ba58
+MD5sum: a391216912a6ee9856281f62f776b44a
+Description: Sample web App
+
+Package: helloworld.war
+Version: 1.1-SNAPSHOT
+Architecture: all
+Maintainer: charan
+Depends: tomcat7
+Priority: 500
+Section: utils
+Filename: pool/main/h/helloworld.war/helloworld.war_1.1-SNAPSHOT_all.deb
+Size: 1906
+SHA256: c80d0278e52090639986d89a0f3b24e6e468a5ac474bf1c515e1b7d09b546943
+SHA1: 9291c534a5da6efd64b1c18e7571d964c3226a6c
+MD5sum: f2c4e5dd81797f4c057a5820b7615352
+Description: Sample web App
+

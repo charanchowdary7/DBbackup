@@ -1,0 +1,25 @@
+Codename: trusty
+Date: Fri, 18 Aug 2017 04:44:48 UTC
+Architectures: i386 amd64
+Components: main
+MD5Sum:
+ 133fe5cfc937ffdd5a1514512e41691d 794 main/binary-i386/Packages
+ 5ee99ae76c4c0385ff8ed6476ad8a702 420 main/binary-i386/Packages.gz
+ 5e77d15a7c8b516e15488780beb4ad24 35 main/binary-i386/Release
+ 133fe5cfc937ffdd5a1514512e41691d 794 main/binary-amd64/Packages
+ 5ee99ae76c4c0385ff8ed6476ad8a702 420 main/binary-amd64/Packages.gz
+ 063287201b2354699acfe229a752201d 36 main/binary-amd64/Release
+SHA1:
+ 5fa6c7be135af51d210749c071f0d0b077f08542 794 main/binary-i386/Packages
+ 0effcdfec8de4b0d961f8836a148a6ffab2fb00b 420 main/binary-i386/Packages.gz
+ ea0e5aa4a1859481eb8929e40af14736bd50387b 35 main/binary-i386/Release
+ 5fa6c7be135af51d210749c071f0d0b077f08542 794 main/binary-amd64/Packages
+ 0effcdfec8de4b0d961f8836a148a6ffab2fb00b 420 main/binary-amd64/Packages.gz
+ f9082edea14092794f38390390e06abf8a922f7d 36 main/binary-amd64/Release
+SHA256:
+ 4e4407a650e2da2680d9e30759185b853295d2a04fe0874ac8d456d897e2f37b 794 main/binary-i386/Packages
+ 60ac499c794c5211d770e2a7a702c98fe79c439be411796d40a6898f456a29e5 420 main/binary-i386/Packages.gz
+ 2ca4451c438b7f4614813919cded632edc7d0318dd7b120d5aa77ec03f055dd6 35 main/binary-i386/Release
+ 4e4407a650e2da2680d9e30759185b853295d2a04fe0874ac8d456d897e2f37b 794 main/binary-amd64/Packages
+ 60ac499c794c5211d770e2a7a702c98fe79c439be411796d40a6898f456a29e5 420 main/binary-amd64/Packages.gz
+ f4aafa353a338baedf9e98523c13d7ffeda979ec3cf745f9fad977dd770595c8 36 main/binary-amd64/Release
